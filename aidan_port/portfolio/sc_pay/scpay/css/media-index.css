@@ -1,0 +1,126 @@
+@media screen and (max-width: 1199px) {
+  .feature-title .line {
+    display: none
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .apps-link img {
+     height: 90px;
+  }
+  .apps-bg {
+     background-image: none;
+     background-color: #eae9e2;
+  }
+  .media-img {
+     margin-bottom: 10px;
+  }
+  .media-icon {
+     text-align: justify;
+  }
+  .content-bg .content-icon {
+     width: 170px;
+  }
+}
+
+@media screen and (max-width: 959px) {
+   .content-bg .content-icon {
+     width: 165px;
+  }
+}
+
+@media screen and (max-width: 934px) {
+   .content-bg .content-icon {
+     width: 160px;
+  }
+}
+
+@media screen and (max-width: 934px) {
+   .content-bg .content-icon {
+     width: 155px;
+  }
+}
+
+@media screen and (max-width: 884px) {
+   .content-bg .content-icon {
+     width: 150px;
+  }
+}
+
+@media screen and (max-width: 859px) {
+   .content-bg .content-icon {
+     width: 145px;
+  }
+}
+
+@media screen and (max-width: 834px) {
+   .content-bg .content-icon {
+     width: 140px;
+  }
+}
+
+@media screen and (max-width: 809px) {
+   .content-bg .content-icon {
+     width: 135px;
+  }
+}
+
+@media screen and (max-width: 784px) {
+   .content-bg .content-icon {
+     width: 130px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+   #fh5co-header {
+      background: none;
+   }
+   .fh5co-nav-toggle {
+      top: 20px;
+   }
+   .fh5co-nav-toggle i::after {
+      background: #fff
+   }
+   .fh5co-nav-toggle i::before {
+      background: #fff
+   }
+   .fh5co-nav-toggle i {
+      background: #fff
+   }
+}
+
+@media screen and (max-width: 759px) {
+   .content-bg .content-icon {
+     width: 125px;
+  }
+}
+
+@media screen and (max-width: 759px) {
+   .content-bg .content-icon {
+     width: 120px;
+  }
+}
+
+/* @media screen and (max-width: 480px) {
+   .media-icon {
+     text-align: center;
+  }
+}
+
+@media screen and (max-width: 359px) {
+   .content-bg .content-icon {
+     width: 130px;
+  }
+}
+
+@media screen and (max-width: 339px) {
+   .content-bg .content-icon {
+     width: 125px;
+  }
+}
+
+@media screen and (max-width: 329px) {
+   .content-bg .content-icon {
+     width: 120px;
+  }
+} */
